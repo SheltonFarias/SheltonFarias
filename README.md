@@ -12,7 +12,6 @@ Com experiência em áreas de desenvolvimento e suporte técnico, venho aprimora
 
 ## <h2 style="color: #00bfbf">Experiência Profissional</h2>
 <div>
-<p><strong>Ex-militar da Aeronáutica (2020 - 2024):</strong> Atuei na área administrativa, desenvolvendo habilidades de disciplina e organização.</p>
 <p><strong>Estagiário de Desenvolvimento Tecnológico  (2023 - 2024)</strong>: Iniciei minha carreira de desenvolvimento em um estágio focado em desenvolvimento com JavaScript</p>
 <p><strong>Suporte Técnico de Sistema (Atualmente):</strong> Trabalho atualmente prestando suporte técnico a sistemas, expandindo meu conhecimento de infraestrutura e troubleshooting.</p>
 </div>
