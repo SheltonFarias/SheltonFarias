@@ -10,12 +10,6 @@ Sou desenvolvedor <strong>Back-end júnior</strong> com 23 anos, residente em Fo
 Com experiência em áreas de desenvolvimento e suporte técnico, venho aprimorando meus conhecimentos em <strong>Back-End</strong>, além da prática em ambientes corporativos e administrativos.
 </p>
 
-## <h2 style="color: #00bfbf">Experiência Profissional</h2>
-<div>
-<p><strong>Estagiário de Desenvolvimento Tecnológico  (2023 - 2024)</strong>: Iniciei minha carreira de desenvolvimento em um estágio focado em desenvolvimento com JavaScript</p>
-<p><strong>Suporte Técnico de Sistema (Atualmente):</strong> Trabalho atualmente prestando suporte técnico a sistemas, expandindo meu conhecimento de infraestrutura e troubleshooting.</p>
-</div>
-
 ### Principais Habilidades:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -64,32 +58,10 @@ Um dos meus projetos mais recentes foi o desenvolvimento de uma **API de login**
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheltonFarias&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
-<h2 style="color: #00bfbf">Contato:</h2>
-
-<p align="left" style="cursor: pointer;">
-  <a href="https://www.instagram.com/shelton_farias" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-@shelton_farias-05122A?style=flat&logo=instagram" alt="Instagram" style="width: auto; height: 30px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shelton-farias" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-SheltonFarias-05122A?style=flat&logo=linkedin" alt="LinkedIn" style="width: auto; height: 30px;"/>
-  </a>
-  <a href="https://www.desenvolvedorsheltofarias.com.br" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Website-05122A?style=flat&logo=google-chrome" alt="Website" style="width: auto; height: 30px;"/>
-  </a>
-  <a href="https://wa.me/SEUNUMERO" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="WhatsApp" style="width: auto; height: 30px;"/>
-  </a>
-</p>
-
 <br>
 <br>
 <br>
 <br>
 <br>
-
-<div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FSheltonFarias&s=25&c=00bfbf&bg=00000000&no=3&ff=electrolize&tb=Vistitantes++&ta=" alt="visits">
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
