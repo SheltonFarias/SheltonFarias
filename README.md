@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-# <h1 align="left" style="color: #00bfbf">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Shelton Farias</h1>
+# <h1 align="left" style="color: #00bfbf">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I am Shelton Farias</h1>
 
 <p>
 Sou desenvolvedor <strong>Back-end júnior</strong> com 23 anos, residente em Fortaleza. Tenho uma paixão por tecnologia e especialização em desenvolvimento utilizando principalmente <strong>JavaScript</strong> e tecnologias relacionadas.
@@ -27,25 +27,6 @@ Com experiência em áreas de desenvolvimento e suporte técnico, venho aprimora
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-
-
-  
-### Estudando no Momento:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)&nbsp;
-
-
-
-## <h2 style="color: #00bfbf">Projetos Relevantes </h2>
-
-Um dos meus projetos mais recentes foi o desenvolvimento de uma **API de login** com autenticação **SHA-256** e **token JWT**, utilizando **Node.js**, **Prisma**, **Express**, **Docker** e **PostgreSQL**. O projeto envolveu criação de um sistema seguro de autenticação para aplicações web.
-
-
-## <h2 style="color: #00bfbf">Educação</h2>
-
-- **Formado em Redes de Computadores**
-- **Curso Full Stack pela Rocketseat**
-
 
 <br>
 <br>
