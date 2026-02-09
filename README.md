@@ -3,7 +3,7 @@
 # <h1 align="left" style="color: #00bfbf">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Shelton Farias</h1>
 
 ### 🧠 Sobre Mim  
-- ✨ Full Stack Developer  
+- ✨ Front-end Developer  
 - 🎓 Redes de Computadores  
 - 🔭 JavaScript | Node.js | React  
 - 🎯 Criando soluções escaláveis
