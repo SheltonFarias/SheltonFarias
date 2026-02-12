@@ -5,7 +5,7 @@
 ### 🧠 Sobre Mim  
 - ✨ Front-end Developer  
 - 🎓 Redes de Computadores  
-- 🔭 JavaScript | Node.js | React  
+- 🔭 JavaScript | React | Node.js   
 - 🎯 Criando soluções escaláveis
 
 ### 🤖 Linguagens e Tecnologias
